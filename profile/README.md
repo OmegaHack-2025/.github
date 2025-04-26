@@ -14,7 +14,7 @@
 - Miguel Chacón
 - Daniel Palacios
 - Simón Gaviria
-- John Gonzalez
+- John González
 - Juan Manuel Young Hoyos
 
 <img src="/profile/integrantes.jpeg" width="300" alt="Integrantes">
