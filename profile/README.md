@@ -6,7 +6,7 @@
 
 ### Logo
 
-<img src="/profile/profile.jpeg" width="500" alt="Profile">
+<img src="/profile/profile.jpeg" width="250" alt="Profile">
 
 ### Integrantes
 
