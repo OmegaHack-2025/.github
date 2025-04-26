@@ -18,7 +18,3 @@
 - Juan Manuel Young Hoyos
 
 <img src="/profile/integrantes.jpeg" width="300" alt="Integrantes">
-
-### Filosofía
-
-<img src="/profile/filosofia.jpeg" width="300" alt="Integrantes">
