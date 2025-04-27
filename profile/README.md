@@ -1,12 +1,8 @@
-# OmegaHack 2024
-
-![Banner OmegaHack-2024](/profile/banner.png)
-
-## El Atraco
+# OmegaHack 2025
 
 ### Logo
 
-<img src="/profile/profile.jpeg" width="250" alt="Profile">
+<img src="/profile/logo.png" width="250" alt="Profile">
 
 ### Integrantes
 
